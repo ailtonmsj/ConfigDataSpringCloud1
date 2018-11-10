@@ -1,5 +1,4 @@
 ---
-spring:
-    key-test-1: valorUm
-    key-test-2: valorDois
-    key-test-3: valorTres
+key-test-1: valorUm
+key-test-2: valorDois
+key-test-3: valorTres
