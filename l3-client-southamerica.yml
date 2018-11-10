@@ -1,5 +1,5 @@
 ---
 spring:
     key-test-1: valorUm
-    key-test-1: valorDois
-    key-test-1: valorTres
+    key-test-2: valorDois
+    key-test-3: valorTres
