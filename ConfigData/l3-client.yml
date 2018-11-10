@@ -1,6 +1,5 @@
 
 ---
-spring:
-    key-test-1: valueOne
-    key-test-2: valueTwo
-    key-test-3: valueThree
+key-test-1: valueOne
+key-test-2: valueTwo
+key-test-3: valueThree
