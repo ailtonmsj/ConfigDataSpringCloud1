@@ -1,0 +1,6 @@
+# Configuration for the eureka clients find the eureka server
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8010/eureka/
