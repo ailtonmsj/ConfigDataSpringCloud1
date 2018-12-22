@@ -4,9 +4,9 @@ eureka:
   client:
     serviceUrl:
       # for single eureka server
-      #defaultZone: http://localhost:8010/eureka/
+      defaultZone: http://localhost:8010/eureka/
       # multiple eureka server (necessary change the /etc/hosts
-      defaultZone: http://eureka-primary:8011/eureka/,http://eureka-secondary:8012/eureka/,http://eureka-tertiary:8013/eureka/
+      #defaultZone: http://eureka-primary:8011/eureka/,http://eureka-secondary:8012/eureka/,http://eureka-tertiary:8013/eureka/
       
 ---
 spring:
