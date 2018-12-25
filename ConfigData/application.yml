@@ -36,5 +36,5 @@ words: boat,book,vote,seat,backpack,partition,groundhog
 ---
 # another noun profile, for run another instance with differents configurations
 spring:
-  profiles: cold-noun
+  profiles: noun-cold
 words: icicle,refrigerator,blizzard,snowball
